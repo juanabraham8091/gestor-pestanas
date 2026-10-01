@@ -34,6 +34,8 @@ Funciona también en Edge, Brave y otros navegadores basados en Chromium.
 
 Todo se queda en tu navegador (`chrome.storage.local`). La extensión no envía datos a ningún servidor y no necesita acceso al contenido de las páginas, solo a la lista de pestañas.
 
+Política de privacidad completa: [PRIVACIDAD.md](PRIVACIDAD.md).
+
 ## Detalles técnicos
 
 Hecha con Manifest V3 y JavaScript puro, sin dependencias ni paso de compilación.
